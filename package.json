@@ -1,0 +1,19 @@
+{
+  "name": "seibu-server",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/purposeindustries/seibu-server.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "seaport": "~1.5.1",
+    "haibu": "~0.10.2"
+  }
+}
